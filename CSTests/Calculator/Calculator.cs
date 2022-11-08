@@ -5,6 +5,7 @@ namespace CSTests
     class Calculator
     {
 
+	// Entry point
         static void Main()
         {
             Console.Write("Enter the first integer: ");
